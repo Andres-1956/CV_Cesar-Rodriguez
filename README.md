@@ -8,16 +8,17 @@ Soy estudiante del programa de Integración en Operaciones Logísticas, con una 
 
 Habilidades y competencias:
 
--**Manejo avanzado de Excel:** Conocimiento en la creación de hojas de cálculo complejas, análisis de datos, tablas dinámicas y funciones avanzadas para optimizar procesos y presentar información clara.
+**Manejo avanzado de Excel:** Conocimiento en la creación de hojas de cálculo complejas, análisis de datos, tablas dinámicas y funciones avanzadas para optimizar procesos y presentar información clara.
+
 **Inglés intermedio/avanzado:** Capacidad para comunicarme eficazmente en inglés tanto de forma escrita como oral, lo que me permite interactuar en ambientes internacionales o con documentación en inglés.
-**Brigadista militar:**
-Experiencia en la toma de decisiones rápidas, trabajo bajo presión, trabajo en equipo y manejo de situaciones de emergencia con enfoque en la seguridad y bienestar colectivo.
-**Ventas y servicio al cliente:**
-Experiencia en la atención al cliente, identificación de necesidades y cierre de ventas, con un enfoque en la satisfacción del cliente y fidelización.
-**Gestión de operaciones logísticas:** 
-Conocimientos en la planificación y optimización de procesos logísticos, desde la recepción hasta la distribución de productos, garantizando eficiencia y efectividad en el uso de recursos.
-**Trabajo en equipo y liderazgo:**
-Habilidad para trabajar de manera colaborativa y también tomar roles de liderazgo en proyectos o situaciones que lo requieran.
+
+**Brigadista militar:** Experiencia en la toma de decisiones rápidas, trabajo bajo presión, trabajo en equipo y manejo de situaciones de emergencia con enfoque en la seguridad y bienestar colectivo.
+
+**Ventas y servicio al cliente:** Experiencia en la atención al cliente, identificación de necesidades y cierre de ventas, con un enfoque en la satisfacción del cliente y fidelización.
+
+**Gestión de operaciones logísticas:**  Conocimientos en la planificación y optimización de procesos logísticos, desde la recepción hasta la distribución de productos, garantizando eficiencia y efectividad en el uso de recursos.
+
+**Trabajo en equipo y liderazgo:** Habilidad para trabajar de manera colaborativa y también tomar roles de liderazgo en proyectos o situaciones que lo requieran.
 
 
 ## 📞 Contacto
